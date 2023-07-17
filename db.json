@@ -1,22 +1,3 @@
 {
-  "tasks": [
-    {
-      "text": "asfjaslioajaf",
-      "day": "",
-      "reminder": true,
-      "id": 1
-    },
-    {
-      "text": "dsfgdsfgdggdsg",
-      "day": "gsdgdsgdsg",
-      "reminder": true,
-      "id": 2
-    },
-    {
-      "text": "gdsgd",
-      "day": "dsgdsg",
-      "reminder": true,
-      "id": 3
-    }
-  ]
+  "tasks": []
 }
